@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "DeleteAtAny",
+            "request": "launch",
+            "mainClass": "delete.DeleteAtAny",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "updateAtBegin",
+            "request": "launch",
+            "mainClass": "update.updateAtBegin",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "updateAtAny",
+            "request": "launch",
+            "mainClass": "update.updateAtAny",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "updateAtEnd",
+            "request": "launch",
+            "mainClass": "update.updateAtEnd",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "updateAtBegin",
+            "request": "launch",
+            "mainClass": "updateAtBegin",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "DeleteAtAny",
+            "request": "launch",
+            "mainClass": "DeleteAtAny",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "DeleteAtBegin",
+            "request": "launch",
+            "mainClass": "DeleteAtBegin",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "DeleteAtEnd",
+            "request": "launch",
+            "mainClass": "DeleteAtEnd",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "InsertAtAny",
+            "request": "launch",
+            "mainClass": "InsertAtAny",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "StringConcept",
+            "request": "launch",
+            "mainClass": "StringConcept",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Try",
+            "request": "launch",
+            "mainClass": "Try",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        }
+    ]
+}

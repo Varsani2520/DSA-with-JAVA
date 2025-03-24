@@ -6,6 +6,69 @@
     "configurations": [
         {
             "type": "java",
+            "name": "builder",
+            "request": "launch",
+            "mainClass": "strings.builder",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Basics",
+            "request": "launch",
+            "mainClass": "strings.Basics",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Issue392",
+            "request": "launch",
+            "mainClass": "Leetcode.Issue392",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Issue392",
+            "request": "launch",
+            "mainClass": "Issue392",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArraysLists.ArrayLists",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayList.ArrayLists",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Counting",
+            "request": "launch",
+            "mainClass": "Counting",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "sorting.Selection",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "sorting.Insertion",
+            "projectName": "DSA-with-JAVA_6bb22054"
+        },
+        {
+            "type": "java",
             "name": "DeleteAtAny",
             "request": "launch",
             "mainClass": "delete.DeleteAtAny",
